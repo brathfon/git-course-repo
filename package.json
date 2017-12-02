@@ -1,0 +1,22 @@
+{
+  "name": "second-repo",
+  "version": "1.0.0",
+  "description": "repo explorations from Brett Hoopers video",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brathfon/git-course-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brathfon/git-course-repo/issues"
+  },
+  "homepage": "https://github.com/brathfon/git-course-repo#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
